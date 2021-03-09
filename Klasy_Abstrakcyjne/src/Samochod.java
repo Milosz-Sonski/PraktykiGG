@@ -5,7 +5,7 @@ public class Samochod implements Pojazd
     @Override
     public void stop()
     {
-        System.out.println("Zatzrymuje się");
+        System.out.println("Zatrzymuje się");
     }
 
     public void skrecwLewo()

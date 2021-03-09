@@ -20,7 +20,7 @@ public class main
         spawacz.wykonujePrace();
 
         //Zadanie 4
-        //a. Odp: Metoda druga przysłania metodę trzecią.
+        //a. Odp: Metoda 1 i 4.
         //b. Odp: Niewidzialna jest metoda numer trzy.
     }
 }
